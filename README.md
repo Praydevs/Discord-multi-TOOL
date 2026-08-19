@@ -1,3 +1,4 @@
+If you would not like to download the actual source code, please download the zip file. 
 # Discord Multi-Tool
 
 A comprehensive Discord utility application with multiple features for token management, messaging, server operations, and boosting. Built with C# and Discord.NET.
