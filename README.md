@@ -220,3 +220,4 @@ If you encounter any issues or have questions:
 **Made with ❤️ by Praydevs**
 
 *Discord Multi-Tool - Your all-in-one Discord utility solution*
+See preview https://imgur.com/a/gGMawBM
